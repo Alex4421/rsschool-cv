@@ -28,7 +28,7 @@ Function should return true if it is possible and false if not.*
 ### Courses:
 * Hexlet
 * JavaScript Manual on learnjavascript.ru (in progress)
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 ---
 ### Languages: 
 * English - Basics
